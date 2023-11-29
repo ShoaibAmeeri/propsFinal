@@ -1,0 +1,10 @@
+.sec{
+    display: flex;
+    flex-wrap:wrap;
+    gap:10px
+}
+
+.item{
+    display: inline-block;
+    border: 2px solid red;
+}
