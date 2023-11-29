@@ -1,4 +1,5 @@
 import React from 'react'
+import { useState } from 'react';
 
 function Task3() {
     let [images, setImages] = useState([
