@@ -7,7 +7,7 @@ export default function Item(props) {
    
    
 
-      <div className="card bg-secondary" style={{ width: "18rem" }}>
+      <div className="card " style={{ width: "18rem",backgroundColor:"rgb(154, 107, 107)",border:"2px solid red" }}>
         <img src={props.image} className="card-img-top" alt={props.title} />
         <div className="card-body">
           <h5 className="card-title"> {props.title} </h5>

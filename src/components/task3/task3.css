@@ -1,1 +1,40 @@
 
+.imp-text {
+    color:blue;
+    background-color: aqua;
+}
+
+ .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+     flex-direction: row; 
+
+     /* text-align: center; */
+ }
+
+.widgets{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 100px;
+}
+
+
+
+
+.widgets img{
+    width: 120px;
+    padding: 5px;
+    background-color: rgb(154, 107, 107);
+    /* border: 2px solid rgb(225, 18, 18); */
+}
+
+.main-img{
+    border: 4px solid rgb(225, 18, 18);
+    background-color: rgb(154, 107, 107);
+
+}

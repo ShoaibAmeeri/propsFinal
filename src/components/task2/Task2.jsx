@@ -16,7 +16,7 @@ export default function Task2() {
     setMarks(copyMarks)
    }
      return (
-       <div className="container  my-5 flex-column">
+       <div className="container  my-3 flex-column py-5" style={{ backgroundColor: "rgb(154, 107, 107)"}}>
       <nav className="navbar bg-body-tertiary">
           <div className="container-fluid">
             <span className="navbar-brand mb-0 h1">
