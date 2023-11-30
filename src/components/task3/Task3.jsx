@@ -9,7 +9,7 @@ let img4 = "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e57199
 // import back from "../assets/back.png"
 
 
-const Task4 = () => {
+const Task3 = () => {
 
   let images = [img1,img2,img3,img4]
   const [imgIndex, setImageIndex] = useState(0)
@@ -75,4 +75,4 @@ const Task4 = () => {
   )
 }
 
-export default Task4
+export default Task3
