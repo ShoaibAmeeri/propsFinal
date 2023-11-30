@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./Task3.css"
+import "./task3.css"
 
 let img1 = "https://www.kfcpakistan.com/images/43a98620-ffaa-11ed-b6b3-6970cc1cd666-zingerstack-Combo-2023-05-31115706.png"
 let img2 = "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-HotWings_variant_0-2023-05-31115706.png"
